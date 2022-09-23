@@ -95,13 +95,13 @@ export const USER_CONFIG = {
       ]
     },
     {
-      name: "老婆1",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
+      name: "亲爱的小阁子",
+      id: "ooTBR6cpnRjGI50RImZ0KYYjeC1c",
+      useTemplateId: "45LJQxftd58FmzafNXFdziVOcGTlrLW2xjgbjYMDj3E",
+      province: "黑龙江",
+      city: "齐齐哈尔",
+      horoscopeDate: '03-18',
+      horoscopeDateType: '今日',
       openUrl: "https://wangxinleo.cn",
       festivals: [],
       customizedDateList: []
